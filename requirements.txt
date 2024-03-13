@@ -1,4 +1,4 @@
-about-time==4.2.1    
+about-time   
 absl-py==2.0.0       
 alive-progress
 altair==4.1.0        
