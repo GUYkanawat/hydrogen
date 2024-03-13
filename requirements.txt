@@ -1,6 +1,6 @@
 about-time==4.2.1    
 absl-py==2.0.0       
-alive-progress==3.1.5
+alive-progress
 altair==4.1.0        
 altgraph==0.17.4     
 anyio==4.1.0
@@ -60,7 +60,7 @@ h5py==3.10.0
 htbuilder==0.6.2
 httpcore==1.0.2
 httplib2==0.22.0
-httpx==0.25.2
+httpx
 idna==3.6
 image==1.5.33
 importlib-metadata==6.11.0
