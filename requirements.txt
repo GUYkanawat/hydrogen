@@ -91,7 +91,7 @@ my-streamlit-component==0.1
 mypy-extensions==1.0.0
 nh3==0.2.15
 numba==0.59.0
-numpy==1.21.4
+numpy==2.0.0b1
 oauthlib==3.2.2
 openpyxl==3.1.2
 opt-einsum==3.3.0
