@@ -33,7 +33,7 @@ st.write("Due to the complexity involved in calculating the hydrogen gas generat
          "machine learning to create a predictive model for estimating the hydrogen gas produced. "
          "To enhance user-friendliness, a web platform has been developed to allow users to experiment with and "
          "utilize this predictive model effectively.")
-st.divider()
+st.write("------------------------------------------------------------------------------------")
 st.markdown(
     """
     <style>
@@ -652,7 +652,7 @@ if st.button("More info"):
     st.write(complex)
     st.button("Back", type="primary")
 
-st.divider()
+st.write("------------------------------------------------------------------------------------")
 #--------------------------------------DATA BASE--------------------------------------------------------#
 st.header("	:round_pushpin: Experimental Data For Training The Model (collected from several literature) :speech_balloon:",divider='red')
 #-----------------------------------------------------------------------------------------------------#
@@ -695,7 +695,7 @@ st.download_button(
     file_name='data_df.csv',
     mime='text/csv')
 
-st.divider()
+st.write("------------------------------------------------------------------------------------")
 #-------------------------------------------------------------------------------------------------------------#
 #picture########
 st.header("	:round_pushpin: Result : :loudspeaker: ")
