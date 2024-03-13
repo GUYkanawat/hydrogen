@@ -159,7 +159,7 @@ starlette==0.20.4
 streamlit
 streamlit-aggrid==0.3.4.post3
 streamlit-component-dropfilltextarea==0.3.0
-streamlit-pandas==0.0.9
+streamlit-pandas>=1.0.0
 streamlit-shap==1.0.2
 streamlit-terran-timeline==0.0.19
 streamlit-timeline==0.0.2
