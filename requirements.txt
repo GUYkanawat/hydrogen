@@ -3,7 +3,7 @@ absl-py==2.0.0
 alive-progress
 altair==4.1.0        
 altgraph==0.17.4     
-anyio==4.1.0
+anyio
 asgiref==3.7.2       
 asttokens==2.4.0
 astunparse==1.6.3
