@@ -24,7 +24,7 @@ colorama==0.4.6
 contourpy==1.1.0
 cryptography==40.0.2
 cycler==0.11.0
-databutton==0.26.11
+databutton==0.38.2
 databutton-web==0.16.0
 dataclasses-json==0.5.14
 decorator==5.1.1
