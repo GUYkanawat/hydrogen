@@ -90,7 +90,7 @@ more-itertools==10.2.0
 my-streamlit-component==0.1
 mypy-extensions==1.0.0
 nh3==0.2.15
-numba==0.57.1
+numba
 numpy==1.23.5
 oauthlib==3.2.2
 openpyxl==3.1.2
