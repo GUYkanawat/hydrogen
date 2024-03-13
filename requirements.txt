@@ -156,7 +156,7 @@ sortedcontainers==2.4.0
 sqlparse==0.4.4
 stack-data==0.6.2
 starlette==0.20.4
-streamlit==1.32.1
+streamlit
 streamlit-aggrid==0.3.4.post3
 streamlit-component-dropfilltextarea==0.3.0
 streamlit-pandas==0.0.9
