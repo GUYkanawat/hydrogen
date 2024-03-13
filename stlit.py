@@ -25,7 +25,7 @@ def load_data():
 st.title("Machine Learning for Predictive Modelling and Optimization of Hydrogen Production from Biomass Gasification")
 
 
-st.divider()
+st.write("------------------------------------------------------------------------------------")
 #---------------------------------------datail-------------------------------------------------#
 st.subheader("Introduction")
 st.write("Due to the complexity involved in calculating the hydrogen gas generated from biomass gasification "
