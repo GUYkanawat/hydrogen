@@ -171,7 +171,6 @@ tensorflow~=2.15.0rc1
 tensorflow-estimator~=2.15.0
 tensorflow-intel~=0.0.1
 tensorflow-io-gcs-filesystem~=0.31.0
-termcolo
 threadpoolctl~=3.2.0
 timeline~=0.0.7
 timelines~=0.2
