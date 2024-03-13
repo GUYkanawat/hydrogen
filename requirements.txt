@@ -1,3 +1,4 @@
+
 about-time==4.2.1    
 absl-py==2.0.0       
 alive-progress==3.1.5
@@ -57,7 +58,7 @@ h5py==3.10.0
 htbuilder==0.6.2
 httpcore==1.0.2
 httplib2==0.22.0
-httpx
+httpx==0.25.2
 idna==3.6
 image==1.5.33
 importlib-metadata==6.11.0
@@ -145,7 +146,7 @@ starlette==0.20.4
 streamlit==1.32.1
 streamlit-aggrid==0.3.4.post3
 streamlit-component-dropfilltextarea==0.3.0
-streamlit-pandas
+streamlit-pandas==0.0.9
 streamlit-shap==1.0.2
 streamlit-terran-timeline==0.0.19
 streamlit-timeline==0.0.2
