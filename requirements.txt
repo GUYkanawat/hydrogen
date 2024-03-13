@@ -77,7 +77,7 @@ keyring==24.3.1
 kiwisolver==1.4.5
 lasio==0.31
 libclang==16.0.6
-llvmlite==0.40.1
+llvmlite
 Markdown==3.5.1
 markdown-it-py==3.0.0
 MarkupSafe==2.1.3
