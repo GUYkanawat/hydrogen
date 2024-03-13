@@ -25,7 +25,7 @@ def load_data():
 st.title("Machine Learning for Predictive Modelling and Optimization of Hydrogen Production from Biomass Gasification")
 
 
-st.write("------------------------------------------------------------------------------------")
+st.divider()
 #---------------------------------------datail-------------------------------------------------#
 st.subheader("Introduction")
 st.write("Due to the complexity involved in calculating the hydrogen gas generated from biomass gasification "
@@ -33,7 +33,7 @@ st.write("Due to the complexity involved in calculating the hydrogen gas generat
          "machine learning to create a predictive model for estimating the hydrogen gas produced. "
          "To enhance user-friendliness, a web platform has been developed to allow users to experiment with and "
          "utilize this predictive model effectively.")
-st.write("------------------------------------------------------------------------------------")
+st.divider()
 st.markdown(
     """
     <style>
@@ -652,7 +652,7 @@ if st.button("More info"):
     st.write(complex)
     st.button("Back", type="primary")
 
-st.write("------------------------------------------------------------------------------------")
+st.divider()
 #--------------------------------------DATA BASE--------------------------------------------------------#
 st.header("	:round_pushpin: Experimental Data For Training The Model (collected from several literature) :speech_balloon:",divider='red')
 #-----------------------------------------------------------------------------------------------------#
@@ -695,7 +695,7 @@ st.download_button(
     file_name='data_df.csv',
     mime='text/csv')
 
-st.write("------------------------------------------------------------------------------------")
+st.divider()
 #-------------------------------------------------------------------------------------------------------------#
 #picture########
 st.header("	:round_pushpin: Result : :loudspeaker: ")
@@ -850,3 +850,4 @@ with tab3:
             st.write('<u style="font-size: 24px;">Test set</u>', unsafe_allow_html=True)
             eval_test = performance_evaluation(Y, df_pred["H2"])
 #-----------------------------------------------------------------------------------------------------#
+
